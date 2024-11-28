@@ -32,6 +32,31 @@ Voici une capture d’écran du tableau de bord final réalisé dans Excel :
 - Protéger les feuilles pour éviter les modifications accidentelles des données.
 
 ---
+### 🛠️ **Étapes techniques principales**
+
+#### 1. **Préparation des données**
+- **Formules avancées :** Utilisation de fonctions comme `AVERAGEIFS` pour des calculs conditionnels complexes.
+- **Tri dynamique :** Mise en place de formules pour trier les données de manière automatisée.
+- **Gestion des données :** Ajout de nouvelles colonnes avec des types de données Excel modernes pour une meilleure interactivité.
+
+#### 2. **Création des visualisations**
+- **Graphiques personnalisés :**
+  - Graphique en barre pour la comparaison des salaires par secteur et État.
+  - Graphiques en anneau pour représenter la répartition des emplois.
+  - Graphique combiné pour comparer plusieurs métriques en un coup d'œil.
+- **Cartographie :** Carte remplie pour visualiser les différences régionales.
+- **Groupement dynamique :** Regroupement des séries dans les graphiques pour une meilleure lisibilité.
+
+#### 3. **Conception du tableau de bord**
+- **Mise en page :** Organisation des visuels dans une structure cohérente et intuitive.
+- **Contrôles interactifs :** Insertion de contrôles de formulaire pour permettre aux utilisateurs de filtrer les données en temps réel.
+- **Thèmes personnalisés :** Création d'un thème de couleurs unique pour renforcer la cohérence visuelle.
+
+#### 4. **Protection et finalisation**
+- **Mise en évidence dynamique :** Création de formats conditionnels pour souligner les tendances clés.
+- **Protection du fichier :** Verrouillage des cellules et des onglets pour garantir l'intégrité des données.
+- **Optimisation visuelle :** Utilisation stratégique des couleurs pour différencier les séries de données et améliorer la lisibilité.
+
 
 ## 📄 Fichier Excel principal
 - **Nom** : `US_Labor_Statistics_Dashboard.xlsx`

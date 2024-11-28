@@ -9,6 +9,11 @@
   3. Créer des graphiques et résumer les conclusions clés.
 
 ---
+## Résultat visuel
+Voici une capture d’écran du résultat final réalisé dans Excel :
+
+![Aperçu du tableau de bord HR Analysis](https://github.com/Arnaudl44/Excel-Projects/blob/main/HR%20Employee%20Survey%20Responses/images/Capture%20d%E2%80%99%C3%A9cran_HR_Employee_Survey_responses.png?raw=true)
+
 
 ## Étapes du projet
 

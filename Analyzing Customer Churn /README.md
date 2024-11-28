@@ -13,7 +13,7 @@
 ## 🖼 Résultat visuel
 Voici une capture d’écran du tableau de bord final réalisé dans Excel :
 
-![Capture d'écran Customer Churn Analysis Dashboard](https://github.com/Arnaudl44/Excel-Projects/blob/main/Customer%20Churn%20Analysis/images/Capture%20d'%C3%A9cran_Customer_Churn_Analysis.png?raw=true)
+![Capture d'écran Customer Churn Analysis Dashboard](https://github.com/Arnaudl44/Excel-Projects/blob/main/Analyzing%20Customer%20Churn%20/images/Capture%20d%E2%80%99%C3%A9cran_Analyzing_Customer_Churn.png)
 
 ---
 

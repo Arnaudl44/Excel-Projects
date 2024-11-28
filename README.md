@@ -27,7 +27,7 @@ Ce dépôt contient plusieurs projets Excel mettant en avant mes compétences en
 ---
 
 ### 3. **Projet : Analyse du churn client**  
-- **Lien vers le projet** : [Analyse du churn client](https://github.com/Arnaudl44/Excel-Projects/blob/main/Customer%20Churn%20Analysis/README.md)  
+- **Lien vers le projet** : [Analyse du churn client](https://github.com/Arnaudl44/Excel-Projects/blob/main/Analyzing%20Customer%20Churn%20/README.md).
 - **Objectif** : Identifier les raisons de la perte de clients et proposer des actions correctives.  
 - **Contenu** :
   - Visualisation des taux de churn par région, tranche d'âge et consommation.

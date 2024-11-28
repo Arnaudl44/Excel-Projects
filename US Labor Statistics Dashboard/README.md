@@ -38,7 +38,4 @@ Voici une capture d’écran du tableau de bord final réalisé dans Excel :
 - **Description** : Tableau de bord interactif basé sur les statistiques de l'emploi aux États-Unis.
 - **Lien** : [Télécharger le fichier Excel](https://github.com/Arnaudl44/Excel-Projects/blob/main/US%20Labor%20Statistics%20Dashboard/files/US_Labor_Statistics_Dashboard.xlsx).
 
-## 📄 Données source
-- **Nom** : `US_Labor_Statistics.xlsx`
-- **Description** : Fichier de données original contenant les informations utilisées pour l'analyse.
-- **Lien** : [Télécharger le fichier Excel](https://github.com/Arnaudl44/Excel-Projects/blob/main/US%20Labor%20Statistics%20Dashboard/files/US_Labor_Statistics.xlsx).
+---

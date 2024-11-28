@@ -34,8 +34,9 @@ Voici une capture d’écran du résultat final réalisé dans Excel :
 
 ---
 
-## Structure des fichiers
-- **`HR_Survey_Analysis.xlsx`** : Données nettoyées, graphiques et résultats finaux.
-- **Captures d’écran** : Visualisations des résultats.
+## 📄 Fichier Excel principal
+- **Nom** : `HR_Employee_Survey_Responses.xlsx`
+- **Description** : Données issues de l'analyse du sondage des employés HR.
+- **Lien** : [Télécharger le fichier Excel](https://github.com/Arnaudl44/Excel-Projects/blob/main/HR%20Employee%20Survey%20Responses/files/HR%20Employee%20Survey%20Responses.xlsx)
 
 ---

@@ -57,7 +57,25 @@ Voici une capture d’écran du tableau de bord final réalisé dans Excel :
 - **Protection du fichier :** Verrouillage des cellules et des onglets pour garantir l'intégrité des données.
 - **Optimisation visuelle :** Utilisation stratégique des couleurs pour différencier les séries de données et améliorer la lisibilité.
 
+---
+## 📊 Insights
 
+- **Salaires moyens les plus élevés :**
+  - Le secteur de l'information présente les salaires moyens les plus élevés parmi tous les secteurs.
+  - Ce secteur emploie seulement 2 % des travailleurs, ce qui en fait un domaine à faible effectif mais à forte rémunération.
+  - Les emplois dans ce secteur sont majoritairement concentrés dans l'État de New York et sur la côte Ouest, où les salaires sont également plus élevés. Cela reflète la présence des sièges sociaux de grands médias nationaux et de plateformes technologiques.
+
+- **Secteurs employant le plus grand nombre de travailleurs :**
+  - 23 % des travailleurs sont employés dans le secteur du commerce et des transports.
+  - 19 % des travailleurs travaillent dans le secteur de l'éducation.
+  - Ces deux secteurs affichent des salaires moyens relativement homogènes à travers le pays, ce qui semble logique étant donné qu'ils répondent à des besoins universels.
+
+- **Disparités régionales des salaires moyens :**
+  - Dans le secteur de la finance, l'État de New York domine avec les salaires moyens les plus élevés, probablement en raison de la concentration d'entreprises financières et de Wall Street.
+  - Dans le secteur des ressources naturelles, le Texas enregistre les salaires moyens les plus élevés, sans doute grâce à l'importance de l'industrie pétrolière dans cette région.
+  - Pour le secteur des loisirs, des États comme la Californie, le Nevada, New York et, dans une moindre mesure, la Floride, se distinguent par des salaires moyens élevés, probablement en raison de leur attractivité touristique, de la présence de casinos et d'autres activités de loisirs.
+
+---
 ## 📄 Fichier Excel principal
 - **Nom** : `US_Labor_Statistics_Dashboard.xlsx`
 - **Description** : Tableau de bord interactif basé sur les statistiques de l'emploi aux États-Unis.

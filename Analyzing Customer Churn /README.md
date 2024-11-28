@@ -47,7 +47,7 @@ Voici une capture d’écran du tableau de bord final réalisé dans Excel :
 
 - **Raisons principales du churn :**
   - La compétition est un facteur majeur avec 37 % des clients indiquant que la concurrence offre de meilleures solutions.
-  - Les problèmes de service représentent une part significative, notamment des attitudes perçues comme négatives envers le support client.
+  - Les problèmes de service représentent une part significative.
 
 - **Analyse démographique :**
   - Les clients de moins de 30 ans représentent 29 % du churn total, mais les seniors (44 %) sont le groupe le plus affecté.
@@ -58,7 +58,7 @@ Voici une capture d’écran du tableau de bord final réalisé dans Excel :
   - Les clients avec des plans illimités présentent un churn plus faible, suggérant l’intérêt d’améliorer les offres pour ces utilisateurs.
 
 - **Analyse par secteur :**
-  - Les États avec des offres compétitives (Californie, New York) présentent des taux de churn élevés, soulignant la nécessité de différencier l'offre.
+  - Les États avec des offres compétitives comme la Californie présentent des taux de churn élevés, soulignant la nécessité de différencier l'offre.
 
 ---
 

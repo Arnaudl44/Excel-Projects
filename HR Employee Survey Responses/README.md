@@ -1,6 +1,6 @@
 # 📊 HR Employee Survey Responses
 
-## Project Brief
+## Résumé du projet
 - **Situation**: Analyse des réponses à une enquête menée auprès de 1 500 employés pour mesurer leur satisfaction et identifier des opportunités d'amélioration.  
 - **Mission**: Préparer une analyse visuelle des données pour l'équipe de direction des ressources humaines.  
 - **Objectifs** :

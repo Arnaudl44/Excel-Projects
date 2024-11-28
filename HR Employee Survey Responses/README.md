@@ -33,7 +33,22 @@ Voici une capture d’écran du résultat final réalisé dans Excel :
   - Bleu : Réponses positives (3, 4).
 
 ---
+## 📊 Insights
 
+- **Satisfaction générale élevée :**
+  - 58% des employés savent ce qui est attendu d'eux au travail.
+  - Une majorité estime que leur rôle est aligné avec la mission de l'organisation.
+
+- **Points forts :**
+  - 48% trouvent que leur superviseur se soucie d'eux en tant que personne.
+  - Forte satisfaction concernant les attentes claires et le soutien des managers.
+
+- **Axes d'amélioration :**
+  - Opportunités d'apprentissage : 22% des employés trouvent qu'elles sont insuffisantes.
+  - Reconnaissance : seulement 35% ont été reconnus pour leur travail la semaine précédente.
+  - Développer les relations entre collègues.
+
+---
 ## 📄 Fichier Excel principal
 - **Nom** : `HR_Employee_Survey_Responses.xlsx`
 - **Description** : Données issues de l'analyse du sondage des employés HR.

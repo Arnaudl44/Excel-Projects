@@ -17,7 +17,7 @@ Voici une capture d’écran du tableau de bord final réalisé dans Excel :
 
 ---
 
-## Étapes du projet
+## 📂 Étapes du projet
 
 ### 1. Préparer les données 
 - Nettoyer et formater les données pour garantir la qualité des analyses.

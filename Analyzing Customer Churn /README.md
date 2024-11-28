@@ -78,6 +78,6 @@ Voici une capture d’écran du tableau de bord final réalisé dans Excel :
 ## 📄 Fichier Excel principal
 - **Nom** : `Customer_Churn_Analysis.xlsx`
 - **Description** : Tableau de bord interactif pour analyser les raisons du churn et identifier les segments à risque.
-- **Lien** : [Télécharger le fichier Excel](https://github.com/Arnaudl44/Excel-Projects/blob/main/Customer%20Churn%20Analysis/files/Customer_Churn_Analysis.xlsx).
+- **Lien** : [Télécharger le fichier Excel](https://github.com/Arnaudl44/Excel-Projects/blob/main/Analyzing%20Customer%20Churn%20/files/Analyzing%20Customer%20Churn.xlsx).
 
 ---

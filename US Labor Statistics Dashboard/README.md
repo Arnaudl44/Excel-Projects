@@ -31,5 +31,5 @@ Ce projet consiste à créer un tableau de bord interactif à partir des statist
 ---
 
 ## 📁 Fichiers associés
-- **Tableau de bord** : [US_Labor_Statistics_Dashboard.xlsx](https://github.com/Arnaudl44/Excel-Projects/blob/main/US%20Labor%20Statistics%20Dashboard/US_Labor_Statistics_Dashboard.xlsx)
+- **Tableau de bord** : [US_Labor_Statistics_Dashboard.xlsx](https://github.com/Arnaudl44/Excel-Projects/blob/main/US%20Labor%20Statistics%20Dashboard/files/US_Labor_Statistics_Dashboard.xlsx).
 - **Données source** : [US_Labor_Statistics.xlsx](https://github.com/Arnaudl44/Excel-Projects/blob/main/US%20Labor%20Statistics%20Dashboard/US_Labor_Statistics.xlsx)

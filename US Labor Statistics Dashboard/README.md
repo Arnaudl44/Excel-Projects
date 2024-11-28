@@ -26,7 +26,7 @@ Ce projet consiste à créer un tableau de bord interactif à partir des statist
 ---
 
 ## 🖼️ Aperçu du tableau de bord
-![Capture d'écran US Labor Statistics Dashboard](https://github.com/Arnaudl44/Excel-Projects/blob/main/US%20Labor%20Statistics%20Dashboard/images/Capture_US_Labor_Statistics_Dashboard.png)
+![Capture d'écran US Labor Statistics Dashboard](https://github.com/Arnaudl44/Excel-Projects/blob/main/US%20Labor%20Statistics%20Dashboard/images/Capture%20d'%C3%A9cran_US_%20Labor_%20Statistics_Dashboard.png)
 
 ---
 
